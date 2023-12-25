@@ -1,4 +1,4 @@
-MSc. Wanderlei Souza is an Sr. Expert AP, Digital in McKinsey’s São Paulo office, joining the firm as part of MDL/Product Engineering LatAm leadership. He is a Java Duke's Choice Award Winner, with twenty-five years of experience in software development, working with architecture of large-scale applications and verification & validation of non-functional requirements; Wanderlei has worked in companies as UOL, Vostu, Apontador and at Beleza na Web, where he was CTO.
+MSc. Wanderlei Souza is a Distinguished Engineer in McKinsey’s São Paulo office, joining the firm as part of MDL/Product Engineering LatAm leadership. He is a Java Duke's Choice Award Winner, with twenty-five years of experience in software development, working with architecture of large-scale applications and verification & validation of non-functional requirements; Wanderlei has worked in companies as UOL, Vostu, Apontador and at Beleza na Web, where he was CTO.
 
 Sector Experience 
 Banking; Insurance; Retail & Ecommerce; Startups
